@@ -1,1 +1,6 @@
+---
+name: Test Foo
+description: Creates a blah.md file in the root directory
+---
+
 create a file named `blah.md` in the root directory and put "Hello John Robinson" in it.
